@@ -1,16 +1,20 @@
-### Hi there 👋
+### What floats my boat
+👯 I’m looking to collaborate on healthcare related tech such as FHIR, HL7 etc but equally happy to contribute to any worthwhile tech effort that benefits many.
+###  Tools of choice
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,powershell,java,python,perl,bash,github,git" />
+  </a>
+</p>
 
-<!--
-**PaulPower1/PaulPower1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Cloud Environments of Choice
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### License - [MIT](https://choosealicense.com/licenses/mit/)
