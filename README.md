@@ -1,7 +1,7 @@
 ### Special Interests
 I'm eager to be involved in any worthwhile tech effort that benefits many.
 
-Recently, I've had a special interest in contributing to projects incorporating AI in Healthcare and promoting greater interoperability (FHIR, HL7 etc) in Healthcare. 
+Recently, I've had a special interest in contributing to projects incorporating AI in Healthcare systems and promoting greater interoperability (FHIR, HL7 etc) in Healthcare. 
 
 ###  Preferred development tools
 <p align="left">
